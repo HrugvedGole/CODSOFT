@@ -4,3 +4,4 @@ This repository contains all the projects I completed during my internship at Co
 This repository contains the following projects-
 1. Sales Prediction
 2. Iris Flower Classification
+3. Movie Ratings Prediction
